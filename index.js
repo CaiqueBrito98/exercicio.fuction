@@ -1,6 +1,3 @@
-
-debugger
-
 const receberNotas = () => {
     let notas = [];
     for (let i = 1; i <= 3; i++) {
